@@ -12,7 +12,7 @@ namespace Sunfleet.Domain
         Dictionary<string, object> myVehicles =
         new Dictionary<string, object>();
 
-
+// comment
         private string user = "boss";
         private string pass = "fleet";
         private bool userIsLoggedIn = false;
