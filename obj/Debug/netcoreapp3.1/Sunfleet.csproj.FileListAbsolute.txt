@@ -1,0 +1,13 @@
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\bin\Debug\netcoreapp3.1\Sunfleet.exe
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\bin\Debug\netcoreapp3.1\Sunfleet.deps.json
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\bin\Debug\netcoreapp3.1\Sunfleet.runtimeconfig.json
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\bin\Debug\netcoreapp3.1\Sunfleet.runtimeconfig.dev.json
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\bin\Debug\netcoreapp3.1\Sunfleet.dll
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\bin\Debug\netcoreapp3.1\Sunfleet.pdb
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.csprojAssemblyReference.cache
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.AssemblyInfoInputs.cache
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.AssemblyInfo.cs
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.csproj.CoreCompileInputs.cache
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.dll
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.pdb
+C:\WorkSpace\ECUtbildning\C#\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.genruntimeconfig.cache
